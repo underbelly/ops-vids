@@ -1,0 +1,9 @@
+package.json
+package-lock.json
+yarn.lock
+.gitignore
+/public
+/node_modules
+/.next
+/.idea
+.prettierignore
